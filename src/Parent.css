@@ -1,0 +1,18 @@
+.parent{
+    width: 50vw;
+    height: 40vh;
+    background-color: aquamarine;
+    border-radius: 8px;
+    padding: 40px;
+    color: #000000;
+    display: flex; 
+    flex-direction: column;
+    align-items: center; 
+}
+.child{
+    width: 20vw;
+    height: 30vh;
+    background-color:antiquewhite;
+    border-radius: 8px;
+    color: black;
+}
