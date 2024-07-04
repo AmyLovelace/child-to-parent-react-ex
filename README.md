@@ -1,4 +1,4 @@
-# Child and Parent Interaction
+# Child to Parent Interaction
 
 ## Description
 
