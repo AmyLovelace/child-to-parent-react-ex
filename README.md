@@ -1,5 +1,5 @@
 # Child to Parent Interaction
-
+![image](./src/assets/image.jpg)
 ## Description
 
 Child to Parent Interaction is a simple React application designed to demonstrate the interaction between a parent and child component. The purpose of this exercise is to understand how props and state work in React, specifically focusing on how an input in the child component can change the title in the parent component.
